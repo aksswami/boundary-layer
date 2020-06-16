@@ -43,7 +43,7 @@ setuptools.setup(
         'jinja2>=2.8.1,<3.0',
         'pyyaml>=4.2b1',
         'marshmallow>=3.0,<4.0',
-        'networkx>=2.1,<2.3',
+        'networkx>=2.4',
         'xmltodict>=0.11.0,<1.0',
         'six>=1.11.0,<2.0',
     ],
