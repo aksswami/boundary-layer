@@ -38,7 +38,7 @@ setuptools.setup(
     extras_require = extras,
     install_requires = [
         'enum34>=1.1.6,<2.0;python_version<"3.4"',
-        'semver>=2.7.0,<3.0',
+        'semver>=2.10.0,<3.0',
         'jsonschema~=3.0',
         'jinja2>=2.8.1,<3.0',
         'pyyaml>=4.2b1',
